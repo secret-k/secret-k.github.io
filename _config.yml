@@ -1,11 +1,11 @@
 # Basic
-title: Vno Jekyll
-subtitle: A blog-orientation theme for Jekyll
-welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank">Download the theme</a>
-description: Vno Jekyll is a port of my Ghost theme vno.
-creator: <a href="http://onev.cat">@onevcat</a>
+title: Dancel
+subtitle: 个人学习与知识的沉淀。
+welcome_message: blog分享学习经验，积累知识，记录生活点滴！
+description: 现居深圳，作为运营狗，向往大前端的路
+creator: <a href="meilto:326616437@qq.com">@ me</a>
 
-url: "http://vno.onevcat.com"
+url: "https://secret-k.github.io"
 
 permalink: /:year/:month/:title/
 
@@ -18,11 +18,11 @@ cover_color: red
 # The blog button should not be removed.
 blog_button:
     title: Blog
-    description: Visit blog
+    description: 进入博客
 
 # Navigation buttons in the front page.
 nav:
-    - {title: Projects, description: My Projects, url: 'http://project.onevcat.com'}
+    - {title: 作品, description: 我的项目, url: '#'}
     # - {title: Another Button, description: A button, url: 'http://example.com'}
 
 # Pagination
@@ -37,11 +37,11 @@ comment:
     
 # Social
 social:
-    weibo: onevcat
-    github: onevcat
-    twitter: onevcat
-    gplus: 107108267983477358170
-    mail: onev@onevcat.com
+    weibo: dancel
+    github: dancel
+    twitter: dancel
+    gplus: dancel
+    mail: 326616437@qq.com
 
 # Google Analytics
 ga:
