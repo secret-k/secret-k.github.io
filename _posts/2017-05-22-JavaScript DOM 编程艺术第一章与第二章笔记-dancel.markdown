@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "搭建个人博客"
-date:   2017-05-07 18:16:23 
+title:  "JavaScript DOM 编程艺术读书笔记第一章与第二章"
+date:   2017-05-22 22:43:03
 categories: blog
 ---
 
